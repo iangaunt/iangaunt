@@ -1,5 +1,6 @@
 # `ianscript`
 
-fullstack game dev. teenager. king of apathy.  
-<br> lua • java • c# • python • javascript
+game dev. teenager. king of apathy.  
+<br> `i_know:` lua • java • c# • python • javascript
+`i_hope:` html • css • c • c++
 
