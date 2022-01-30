@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#ianscript!
+
+fullstack game dev. teenager. king of apathy. 
+
+💬 want to contact me? hit me up on discord @ Ian#1873
+
+
