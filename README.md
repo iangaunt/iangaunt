@@ -1,4 +1,4 @@
-# `ianscript`
+# `i9nn`
 
 game dev. teenager. king of apathy.  
 <br> `advanced_:` lua • java • c#
