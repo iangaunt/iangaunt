@@ -7,7 +7,4 @@ Lua, Java, C, SQL, and some other wacky ones. If you have suggestions, don't be 
 
 Planning to pursue artificial intelligence or architecture. 
 
-[![i9nn's GitHub stats](https://github-readme-stats.vercel.app/api?username=i9nn&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i9nn&theme=dracula&layout=compact&hide=cmake,swift,kotlin,objective-c,Vim+script,powershell,html&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://github.com/i9nn/github-stats/blob/master/generated/overview.svg?raw=true)
