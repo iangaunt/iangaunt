@@ -3,8 +3,8 @@
 Hi! I'm Ian. I hate everyone and everything.
 
 I know a variety of langauges and am hoping to learn tons more. 
-`list`: lua, java, c#, html, css, python
-`hoping for:` sql, ruby, kotlin, javascript, c, c++, f
+<br>`list`: lua, java, c#, html, css, python
+<br>`hoping for:` sql, ruby, kotlin, javascript, c, c++, f
 
 If you have suggestions, don't be afraid to give me some. 
 
