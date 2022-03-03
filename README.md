@@ -8,4 +8,4 @@ I know a variety of langauges and am hoping to learn tons more. If you have sugg
 
 Planning to pursue artificial intelligence or architecture. 
 
-<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i9nn&theme=tokyonights&layout=compact&hide=cmake,swift,kotlin,objective-c,Vim+script,powershell,html&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i9nn&theme=react&layout=compact&hide=cmake,swift,kotlin,objective-c,Vim+script,powershell,html&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
