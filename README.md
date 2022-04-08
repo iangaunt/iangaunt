@@ -2,9 +2,9 @@
 
 Hi! I'm Ian. I hate everyone and everything.
 
-I know a variety of langauges and am hoping to learn tons more. If you have suggestions, don't be afraid to give me some. 
-<br>`list:` lua, java, python, html, css, c#
-<br>`hoping for:` sql, ruby, kotlin, javascript, c, c++, f#
+I've been developing for about 5 years now. I know a variety of langauges and am hoping to learn tons more. 
+<br>`LIST:` LUA, JAVA, PYTHON, HTML, CSS, C#, JS, C++
+<br>`SOON:` SQL, RUBY, KOTLIN, C, F#
 
 Planning to pursue artificial intelligence or architecture. 
 
