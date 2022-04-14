@@ -4,7 +4,7 @@ Hi! I'm Ian. I hate everyone and everything.
 
 I've been developing for about 5 years now. I know a variety of langauges and am hoping to learn tons more. 
 <br>`LIST:` LUA, JAVA, PYTHON, HTML, CSS, C#, JS, C++
-<br>`SOON:` SQL, RUBY, KOTLIN, C, F#
+<br>`SOON:` SQL, RUBY, KOTLIN, C, F#, RUST, GO,
 
 Planning to pursue artificial intelligence or architecture. 
 
