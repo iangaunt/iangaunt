@@ -2,7 +2,8 @@
 
 Hi! I'm Ian. I hate everyone and everything.
 
-I've been developing for about 5 years now. I know a variety of langauges and am hoping to learn tons more. 
+I've been developing for about 5 years now. I know a variety of langauges and am hoping to learn tons more. Currently, I'm specializing in web development, particularly in front-end. 
+
 <br>`LIST:` LUA, JAVA, PYTHON, KOTLIN, HTML, CSS, C#, JS, C++
 <br>`SOON:` SQL, RUBY, C, F#, RUST, GO
 
