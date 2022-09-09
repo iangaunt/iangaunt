@@ -2,9 +2,8 @@
 
 Hi! I'm Ian. 
 
-I've been developing for about 5 years now. I know a variety of langauges and am hoping to learn tons more. Currently, I'm specializing in web development, particularly in front-end. 
-<br>`LIST:` LUA, JAVA, PYTHON, KOTLIN, HTML, CSS, JS, 
-<br>`SOON:` SQL, RUBY, C, F#, RUST, GO
+I've been developing for about 5 years now. Currently, I'm specializing in web development, particularly in front-end, and Java. 
+<br>`LIST:` Lua, Java, HTML, CSS, jQuery, Sass (SCSS), a little Python and a little C#
 
 Planning to pursue artificial intelligence or architecture. 
 
