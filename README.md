@@ -3,10 +3,11 @@
 Hi! I'm Ian. 
 
 I've been developing for about 5 years now. Currently, I'm specializing in web development, particularly in front-end, and Java. 
-<br>`THINGS I DO SOMETIMES:` 
+<br>`THINGS I DO SOMETIMES:`
+##### in order of how good I am at them
 * Lua
-* Java
 * HTML & CSS (Sass & Tailwind)
+* Java
 * JavaScript (jQuery, TypeScript)
 * Python (trying to get back into it)
 * C#, C++, Kotlin (one can hope)
