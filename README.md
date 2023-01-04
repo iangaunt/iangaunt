@@ -8,8 +8,7 @@ I've been developing for about 5 years now. Currently, I'm specializing in web d
 * Lua
 * HTML & CSS (Sass & Tailwind)
 * Java
-* JavaScript (jQuery, TypeScript)
-* Python (trying to get back into it)
+* JavaScript (jQuery, TypeScript, trying React)
 * C#, C++, Kotlin (one can hope)
 
 Planning to pursue artificial intelligence or architecture. 
