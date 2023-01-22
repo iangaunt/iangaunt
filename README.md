@@ -8,8 +8,9 @@ I've been developing for about 5 years now. Currently, I'm specializing in web d
 * Lua / Luau (Roact, Rojo)
 * HTML & CSS (Sass & Tailwind)
 * Java
-* JavaScript (jQuery, TypeScript, trying React)
-* C#, C++, Kotlin (one can hope)
+* JavaScript (jQuery, TypeScript, some React)
+* C++ (tinkering)
+* C#, Kotlin
 
 Planning to pursue artificial intelligence or architecture. 
 
