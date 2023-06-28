@@ -6,11 +6,10 @@ I've been developing for about 5 years now. Currently, I'm specializing in web d
 <br>`THINGS I DO SOMETIMES:` 
 ###### in order of how good I am at them
 * Lua / Luau (Roact, Rojo)
-* HTML & CSS (Sass & Tailwind)
-* Java
-* JavaScript (jQuery, TypeScript, some React)
-* C++ (tinkering)
-* C#, Kotlin
+* HTML & CSS (Sass, SCSS & Tailwind)
+* Java 
+* JavaScript (TypeScript, React)
+* C++, R
 
 Planning to pursue artificial intelligence or architecture. 
 
