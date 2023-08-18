@@ -14,4 +14,4 @@ I've been developing for about 6 years now. Currently, I'm specializing in web d
 
 Planning to pursue artificial intelligence or architecture. 
 
-<br>[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iangaunt&theme=github_dark&layout=compact&hide=cmake,objective-c+script,powershell&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<br>[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iangaunt&theme=github_dark&layout=compact&hide=objective-c+script,powershell&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
