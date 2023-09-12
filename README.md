@@ -7,11 +7,11 @@ I've been developing for about 6 years now. Currently, I'm specializing in web d
 <br>`THINGS I DO SOMETIMES:` 
 ###### in order of how good I am at them
 * Lua / Luau (Roact, Rojo)
-* HTML & CSS (Sass, SCSS & Tailwind)
+* HTML & CSS (SCSS & Tailwind)
 * Java 
-* JavaScript (TypeScript, React)
+* JavaScript (TypeScript, React, some Svelte)
 * C++, R
 
-Planning to pursue web development, music production, or architecture. 
+Planning to pursue web / software development, music production, or architecture. 
 
-<br>[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iangaunt&theme=github_dark&layout=compact&hide=objective-c+script,powershell&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<br>[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iangaunt&theme=github_dark&layout=compact&hide=objective-c+script,powershell,swift&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
