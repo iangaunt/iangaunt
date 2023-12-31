@@ -9,7 +9,7 @@ I've been developing for about 6 years now. Currently, I'm specializing in web d
 * Lua / Luau (Roact, Rojo)
 * HTML & CSS (SCSS & Tailwind)
 * Java 
-* JavaScript (TypeScript, React, some Svelte)
+* JavaScript (TypeScript, React, Webpack)
 * C++, R
 
 Planning to pursue web / software development, music production, or architecture. 
