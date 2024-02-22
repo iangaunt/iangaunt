@@ -10,7 +10,7 @@ I've been developing for about 6 years now. Currently, I'm specializing in web d
 * HTML & CSS (SCSS & Tailwind)
 * Java 
 * JavaScript (TypeScript, React, Webpack)
-* C++, R
+* C++, R 
 
 Planning to pursue web / software development, music production, or architecture. 
 
