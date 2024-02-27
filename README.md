@@ -2,7 +2,7 @@
 
 Hi! I'm Ian. 👋
 
-I've been developing for about 6 years now. Currently, I'm specializing in web development, particularly in front-end, alongside Lua and Java. I'm also learning data structures and algorithms on the side, and have dabbled in data science in the past. 
+I've been developing for about 6 years now. Currently, I'm specializing in web development, particularly in front-end, alongside C++ (for graphics processing) and Java. I'm also learning DP and algorithms on the side, and have worked with data science in the past. 
 
 <br>`THINGS I DO SOMETIMES:` 
 ###### in order of how good I am at them
