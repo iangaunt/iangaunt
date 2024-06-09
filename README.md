@@ -2,7 +2,7 @@
 
 Hi! I'm Ian. 👋
 
-I've been developing for about 6 years now. My primary focus is working with the theory and mathematics behind algorithms (and UI design.)
+I've been developing for about 7 years now. My primary focus is working with the theory and mathematics behind algorithms (and UI design.)
 
 Currently, I'm specializing in web development, particularly in front-end, alongside C++ (for graphics processing) and Java. I'm also learning DP and algorithms on the side, and have worked with data science in the past. 
 
