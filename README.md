@@ -1,6 +1,6 @@
 # `iangaunt` 
 
-Hi! I'm Ian. 👋
+Hi! I'm Ian. 👋 ![](https://komarev.com/ghpvc/?username=iangaunt&color=blue)
 
 I've been developing for about 7 years now. My primary focus is working with the theory and mathematics behind algorithms (and UI design.)
 
