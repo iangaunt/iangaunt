@@ -1,6 +1,8 @@
 # `iangaunt` 
 
-Hi! I'm Ian. 👋 ![](https://komarev.com/ghpvc/?username=iangaunt&color=blue)
+Hi! I'm Ian. 👋 
+![](https://komarev.com/ghpvc/?username=iangaunt&color=blue)
+[![wakatime](https://wakatime.com/badge/user/1b6c204c-7fa4-4204-9f83-aff98b151287.svg)](https://wakatime.com/@1b6c204c-7fa4-4204-9f83-aff98b151287)
 
 I've been developing for about 7 years now. My primary focus is working with the theory and mathematics behind algorithms (and UI design.)
 
