@@ -18,5 +18,5 @@ Currently, I'm specializing in web development, particularly in front-end, along
 
 Planning to pursue web / software development, music production, or architecture. 
 
-<br> ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iangaunt&theme=github_dark&layout=compact&hide=css,objective-c+script,powershell,swift,c,kotlin&langs_count=10) 
+<br> ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iangaunt&theme=github_dark&layout=compact&hide=css,objective-c+script,powershell,swift,kotlin&langs_count=10) 
 <br> ![Leetcode Stats](https://leetcard.jacoblin.cool/iangaunt)
