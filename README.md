@@ -13,9 +13,9 @@ Currently, I'm specializing in web development, particularly in front-end, along
 ###### in order of how good I am at them
 * Lua / Luau (Roact, Rojo)
 * HTML & CSS (SCSS & Tailwind)
-* Java 
+* Java
 * JavaScript (TypeScript, React, Webpack)
-* C++, R 
+* C++ (OpenGL, SDL)
 
 Planning to pursue web / software development, music production, or architecture. 
 
