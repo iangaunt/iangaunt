@@ -7,19 +7,17 @@ Hi! I'm Ian. 👋
 
 I've been developing for about 7 years now. My primary focus is working with the theory and mathematics behind algorithms (and UI design.)
 
-Currently, I'm specializing in web development, particularly in front-end, alongside C++ (for graphics processing) and Java. I'm also learning DP and algorithms on the side, and have worked with data science in the past. 
+Currently, I'm specializing in web development, particularly in front-end, alongside C++ and Java. I'm also learning DP and algorithms on the side, as well as studying internal hardware and theoretical implementation.
 
 <br>`THINGS I DO SOMETIMES:` 
 ###### in order of how good I am at them
 * Lua / Luau (Roact, Rojo)
 * HTML & CSS (SCSS & Tailwind)
 * Java 
-* Java
 * JavaScript (TypeScript, React, Webpack)
-* C++, R 
 * C++ (OpenGL, SDL)
 
-Planning to pursue web / software development, music production, or architecture. 
+Currently a first year computer science student at Cal Poly SLO.
 
 <br> ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iangaunt&theme=github_dark&layout=compact&hide=css,objective-c+script,powershell,swift,kotlin,c&langs_count=10) 
 <br> ![Leetcode Stats](https://leetcard.jacoblin.cool/iangaunt)
