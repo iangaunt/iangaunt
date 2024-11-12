@@ -19,5 +19,5 @@ Currently, I'm specializing in web development, particularly in front-end, along
 
 Currently a first year computer science student at Cal Poly SLO.
 
-<br> ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iangaunt&theme=github_dark&layout=compact&hide=css,objective-c+script,powershell,swift,kotlin,c,c#&langs_count=10) 
+<br> ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iangaunt&theme=github_dark&layout=compact&hide=css,objective-c+script,powershell,swift,kotlin,c,csharp&langs_count=10) 
 <br> ![Leetcode Stats](https://leetcard.jacoblin.cool/iangaunt)
