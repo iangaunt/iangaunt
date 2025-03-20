@@ -13,9 +13,10 @@ Currently, I'm specializing in web development, particularly in front-end, along
 ###### in order of how good I am at them
 * Lua / Luau (Roact, Rojo)
 * HTML & CSS (SCSS & Tailwind)
-* Java 
-* JavaScript (TypeScript, React, Webpack)
+* Java
+* JavaScript (TypeScript, React, Next.js, Webpack)
 * C++ (OpenGL, SDL)
+* Rust
 
 Currently a first year computer science student at Cal Poly SLO.
 
