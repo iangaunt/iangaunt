@@ -1,4 +1,4 @@
-# `iangaunt` 
+# `~ iangaunt` 
 
 Hi! I'm Ian. 👋 
 <br>
@@ -7,7 +7,7 @@ Hi! I'm Ian. 👋
 
 I've been developing for about 7 years now. My primary focus is working with the theory and mathematics behind algorithms (and UI design.)
 
-Currently, I'm specializing in web development, particularly in front-end, alongside C++ and Java. I'm also learning DP and algorithms on the side, as well as studying internal hardware and theoretical implementation.
+Currently, I'm specializing in full-stack web development, alongside algorithmic analysis / graph theory. Some of my other focuses include studying internal hardware and theoretical implementation.
 
 <br>`THINGS I DO SOMETIMES:` 
 ###### in order of how good I am at them
