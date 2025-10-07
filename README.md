@@ -19,6 +19,6 @@ Currently, I'm specializing in full-stack web development, alongside algorithmic
 * Rust
 * Dart (Flutter)
 
-Currently a first year computer science student at Cal Poly SLO.
+Currently a second year computer science student at Cal Poly SLO.
 
 <br> ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iangaunt&theme=github_dark&layout=compact&hide=css,objective-c+script,kotlin,csharp,python,c,cmake&langs_count=12) 
