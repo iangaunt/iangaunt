@@ -5,7 +5,7 @@ Hi! I'm Ian. 👋
 <br>![](https://komarev.com/ghpvc/?username=iangaunt&color=blue)
 <br>[![wakatime](https://wakatime.com/badge/user/1b6c204c-7fa4-4204-9f83-aff98b151287.svg)](https://wakatime.com/@1b6c204c-7fa4-4204-9f83-aff98b151287)
 
-I've been developing for about 7 years now. My primary focus is working with the theory and mathematics behind algorithms (and UI design.)
+I've been developing for about 3 years now. My primary focus is working with the theory and mathematics behind algorithms (and UI design.)
 
 Currently, I'm specializing in full-stack web development, alongside algorithmic analysis / graph theory. Some of my other focuses include emulation, hardware, and theoretical implementation.
 
