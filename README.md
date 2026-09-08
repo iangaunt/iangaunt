@@ -1,5 +1,5 @@
 # `~ iangaunt` 
-0x developer
+0x developer<br>
 third year cs student @ cal poly slo
 
 <br>![](https://komarev.com/ghpvc/?username=iangaunt&color=blue)
